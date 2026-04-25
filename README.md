@@ -29,9 +29,7 @@ A full-stack personal finance management system designed to help users track exp
 * React.js
 * Modern UI components
 
-### 🗄️ Database
 
-* (Add your DB here: MongoDB / PostgreSQL / etc.)
 
 ### 🐳 DevOps
 
